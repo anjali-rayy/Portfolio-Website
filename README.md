@@ -42,8 +42,8 @@ Open the files in your favorite code editor and customize:
 
 #### `index.html` - Update Your Information:
 ```html
-<!-- Change your name -->
-<h1 class="name-main">Your Name</h1>
+<!-- Change Anjali Ray -->
+<h1 class="name-main">Anjali Ray</h1>
 
 <!-- Update your role -->
 <span class="role-main" id="roleText">Your Title</span>
